@@ -1,6 +1,7 @@
 package com.sanzhar.spring.models;
 
 public class Person {
+    private String computer;
     private int id;
     private String name;
     private int age;
