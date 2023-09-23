@@ -1,2 +1,2 @@
 # SpringRep
-Crud project using hibernate
+Crud project using jdbcTemplate
